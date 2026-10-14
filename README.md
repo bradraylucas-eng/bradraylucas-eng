@@ -17,3 +17,14 @@ I build machine-readable tools for AI agent builders: reliability test kits, eva
 Affiliates earn 30%: [bradray2.gumroad.com/affiliates](https://bradray2.gumroad.com/affiliates)
 
 Building with agents and missing a dataset or a test category? Open an issue in the samples repo — that's my product research.
+
+---
+
+## Earn 30% as an affiliate
+
+Every product in the shop pays a 30% affiliate commission. Join free: https://bradray2.gumroad.com/affiliates
+
+## Writing
+
+- [I verified all 160 official U.S. business-data portals so your agent doesn't have to](https://dev.to/bradraylucaseng/i-verified-all-160-official-us-business-data-portals-so-your-agent-doesnt-have-to-heres-what-5g3d)
+- [I built a tiny MCP notes server in Python — here's the whole thing, free](https://dev.to/bradraylucaseng/i-built-a-tiny-mcp-notes-server-in-python-heres-the-whole-thing-free-34fp)
